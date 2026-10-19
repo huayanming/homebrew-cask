@@ -5,7 +5,7 @@ cask "lumepane" do
   url "https://lumepane.com/dl/DisplayPilot-#{version}.dmg",
       verified: "lumepane.com/"
   name "LumePane"
-  desc "Native macOS display, scroll and window console"
+  desc "Native display, scroll and window console"
   homepage "https://lumepane.com/"
 
   livecheck do
